@@ -1,7 +1,5 @@
 from fastmcp import FastMCP
 from fastmcp.utilities.types import Image, Audio, File
-from fastmcp.server.context import Context
-from fastmcp.dependencies import CurrentContext
 
 
 
